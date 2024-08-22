@@ -52,7 +52,7 @@ def main():
                 print(f"{Fore.YELLOW}{Style.BRIGHT}Tenant ID: {Style.NORMAL}{tenant_id}")
                 print(f"{Fore.YELLOW}{Style.BRIGHT}UPN: {Style.NORMAL}{upn}")
                 print(f"{Fore.GREEN}{Style.BRIGHT}Audience: {Style.NORMAL}{aud}")
-                print(f"{Fore.GREEN}{Style.BRIGHT}AScopes: {Style.NORMAL}{scopes}\n")
+                print(f"{Fore.GREEN}{Style.BRIGHT}Scopes: {Style.NORMAL}{scopes}\n")
    
 
 if __name__ == "__main__":
